@@ -8,7 +8,8 @@ render() {
   return(
     <MuiThemeProvider>
      <div>
-     <NavBar />
+     <NavBar/>
+     
      <Search />
      </div>
     </MuiThemeProvider>
